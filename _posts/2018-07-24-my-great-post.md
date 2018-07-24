@@ -15,4 +15,6 @@ this is the body of my post
 
 this is the body of my post
 
+![coffee press](/assets/images/uploads/bodum-french-press.png)
+
 this is the body of my post
